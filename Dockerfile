@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM dockerclub/ubuntu
 
 # Install Nginx.
 RUN \
